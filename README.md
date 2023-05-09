@@ -64,11 +64,9 @@ php artisan migrate
 
 
 import the database from the sql file
-```
 [task_management.sql](https://github.com/Sajid-al-islam/task-management/blob/master/task_management.sql)
 
 or [Click here to download task_management.sql](https://raw.githubusercontent.com/Sajid-al-islam/task-management/master/task_management.sql)
-```
 
 Finally time to launch project, run
 ```
