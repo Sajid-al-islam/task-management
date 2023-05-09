@@ -17,7 +17,7 @@ clone project
 git clone hhttps://github.com/Sajid-al-islam/task-management.git
 ```
 
-or [Click here to download .zip](https://github.com/Sajid-al-islam/task-management/archive/refs/heads/main.zip)
+or [Click here to download .zip](Sajid-al-islam/task-management/archive/refs/heads/master.zip)
 
 
 install dependencies
